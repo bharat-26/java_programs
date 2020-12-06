@@ -1,2 +1,2 @@
-# java_prorams
+# java_programs
 practical programs
